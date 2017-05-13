@@ -4,6 +4,8 @@ curated by Kevin
 
 # Spreadsheets (if you must)
 
+* *Google Sheets Function List:* https://support.google.com/docs/table/25273?visit_id=1-636302830575025568-1659230079&hl=en&rd=2
+
 * *How to Excel* at Excel http://www.howtoexcelatexcel.com/
 
 * Oz du Soleli https://about.me/OzDragons **(He focuces on data management and power pivot & queries)**
