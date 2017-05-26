@@ -12,6 +12,8 @@ curated by Kevin
 
 ## Spreadsheet Articles
 
+* How to find duplicate values: http://www.howtoexcelatexcel.com/formulas/use-conditional-formatting-to-find-duplicate-data-in-excel/?platform=hootsuite
+
 * Spreadsheet Structure: https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/
 
 * Vlookup hack:
