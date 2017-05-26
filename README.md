@@ -40,3 +40,7 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 * *tutorial* https://tutorial.djangogirls.org/en/
 
 *I found this helpful*
+
+# Git and Github
+
+Using Github without Code: https://guides.github.com/activities/hello-world/
