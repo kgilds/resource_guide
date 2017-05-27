@@ -46,3 +46,6 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 # Git and Github
 
 Using Github without Code: https://guides.github.com/activities/hello-world/
+
+# R
+Best intro to R ever: http://stat545.com/topics.html
