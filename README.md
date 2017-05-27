@@ -29,6 +29,8 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 
 * Albero Cario: http://www.thefunctionalart.com/
 
+* Cole Knaflic: http://www.storytellingwithdata.com/
+
 # Intro to Programming
 
 * Python for Everybody: http://www.py4e.com/
