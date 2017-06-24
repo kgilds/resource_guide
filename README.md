@@ -49,6 +49,15 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 
 *I found this helpful*
 
+# Networking 
+
+* Women who code: https://www.womenwhocode.com/tampa
+
+* Toastmasters (Public Speaking): https://district48.org/
+
+* Code Lakeland: https://www.meetup.com/Code-Lakeland/
+
+* R User Group Gainsville: https://www.meetup.com/R-Users-Group-Gainesville-FL/
 
 
 # Git and Github
