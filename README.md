@@ -10,14 +10,20 @@ curated by Kevin
 
 * Oz du Soleli https://about.me/OzDragons **(He focuces on data management and power pivot & queries)**
 
-## Spreadsheet Articles
-
 * How to find duplicate values: http://www.howtoexcelatexcel.com/formulas/use-conditional-formatting-to-find-duplicate-data-in-excel/?platform=hootsuite
 
 * Spreadsheet Structure: https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/
 
 * Vlookup hack:
 https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ranges.aspx
+
+* Spreadsheets in the classroom: http://edutraining.googleapps.com/drive/chapter-3
+
+
+# General Training: 
+
+* Googe for Education: https://edutrainingcenter.withgoogle.com/
+
 
 # Data Visualization: 
 
