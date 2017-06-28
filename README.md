@@ -76,3 +76,5 @@ Best intro to R ever: http://stat545.com/topics.html
 * Seth Godin: http://sethgodin.typepad.com/
 
 * Cal Newport: http://calnewport.com/blog/
+
+* danah boyd: http://www.danah.org/ (Anthropologist and Date Science!)
