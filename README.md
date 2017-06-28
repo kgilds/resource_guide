@@ -67,6 +67,10 @@ Using Github without Code: https://guides.github.com/activities/hello-world/
 # R
 Best intro to R ever: http://stat545.com/topics.html
 
+## Clean up spreadsheets with R
+
+* Tidy Evaluation: http://luisdva.github.io/rstats/tidyeval/
+
 # Leadership Management Blogs
 
 * Seth Godin: http://sethgodin.typepad.com/
