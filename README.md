@@ -65,11 +65,20 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 Using Github without Code: https://guides.github.com/activities/hello-world/
 
 # R
-Best intro to R ever: http://stat545.com/topics.html
+
+* Best intro to R ever: http://stat545.com/topics.html
+* Karl Broman's Tutorials: http://kbroman.org/pages/tutorials.html
 
 ## Clean up spreadsheets with R
 
 * Tidy Evaluation: http://luisdva.github.io/rstats/tidyeval/
+
+# Web Developement (W3Schools)
+* https://www.w3schools.com/
+
+   * SQL examples: https://www.w3schools.com/sql/sql_quickref.asp
+
+
 
 # Leadership Management Blogs
 
