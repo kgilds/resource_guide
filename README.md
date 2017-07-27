@@ -37,6 +37,8 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 
 * Cole Knaflic: http://www.storytellingwithdata.com/
 
+* Flowing Data: http://flowingdata.com/
+
 # Intro to Programming
 
 * Python for Everybody: http://www.py4e.com/
@@ -46,8 +48,6 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 * Djangogirls: https://djangogirls.org/
 
 * *tutorial* https://tutorial.djangogirls.org/en/
-
-*I found this helpful*
 
 # Networking 
 
