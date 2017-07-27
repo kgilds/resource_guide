@@ -1,5 +1,5 @@
 # resource_guide
-curated by Kevin
+
 
 
 # Spreadsheets (if you must)
