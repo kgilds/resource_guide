@@ -68,6 +68,7 @@ Using Github without Code: https://guides.github.com/activities/hello-world/
 
 * Best intro to R ever: http://stat545.com/topics.html
 * Karl Broman's Tutorials: http://kbroman.org/pages/tutorials.html
+* R for Data Science: http://r4ds.had.co.nz/
 
 ## Clean up spreadsheets with R
 
