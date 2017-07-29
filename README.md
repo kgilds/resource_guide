@@ -70,6 +70,8 @@ Using Github without Code: https://guides.github.com/activities/hello-world/
 * Karl Broman's Tutorials: http://kbroman.org/pages/tutorials.html
 * R for Data Science: http://r4ds.had.co.nz/
 * Text Mining with R: http://tidytextmining.com/
+* R Programming for Data Science: https://bookdown.org/rdpeng/rprogdatascience/
+
 ## Clean up spreadsheets with R
 
 * Tidy Evaluation: http://luisdva.github.io/rstats/tidyeval/
