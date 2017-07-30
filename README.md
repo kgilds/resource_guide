@@ -76,7 +76,14 @@ Using Github without Code: https://guides.github.com/activities/hello-world/
 
 * Tidy Evaluation: http://luisdva.github.io/rstats/tidyeval/
 
+
+# Data Science, Machine Learning & Artifical Intelligence
+
+* Chris Albon: https://chrisalbon.com/
+
 # Web Developement (W3Schools)
+
+
 * https://www.w3schools.com/
 
    * SQL examples: https://www.w3schools.com/sql/sql_quickref.asp
