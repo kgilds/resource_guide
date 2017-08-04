@@ -20,7 +20,9 @@ https://www.airweb.org/eAIR/techtips/Pages/VLOOKUP-COLUMN-Function-and-Named-Ran
 * Spreadsheets in the classroom: http://edutraining.googleapps.com/drive/chapter-3
 
 
-# General Training: 
+# General Training/Help
+
+* Stack Overflow: https://stackoverflow.com/
 
 * Googe for Education: https://edutrainingcenter.withgoogle.com/
 
